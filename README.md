@@ -7,7 +7,7 @@ With GroupDocs Viewer plugin for Radiant CMS you can easily view on website PDF'
 
 INSTALLATION
 
-1. "groupdocsviewer" module contain "design, modules, setting", so unzip it into "extentions" directory
+1. "groupdocsviewer" module contain "design, modules, setting", so unzip it into "extentions" directory, so parent directory is "groupdocsviewer"
 2. Open file: "site/settings/override/site.ini.append.php" and add "ActiveExtensions[]=groupdocsviewer" under "[ExtensionSettings]"
 3. Go to Admin > Setup > Extentions and checkbox where "groupdocsviewer" must be ticked
 4. Then go to - Setup > Extentions and press "Regenerate autoloaded arrays for extentions" in the bottom
