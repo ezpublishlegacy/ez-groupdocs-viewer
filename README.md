@@ -2,7 +2,7 @@ GROUPDOCS VIEWER
 
 GroupDocs Viewer plugin for eZ Publish
 
-With GroupDocs Viewer plugin for Radiant CMS you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your eZ Publish website.
+With GroupDocs Viewer plugin for eZ Publish you can easily view on website PDF's, Word documents, Excel documents, Powerpoint documents and more with the GroupDocs Viewer tool, directly from within your eZ Publish website.
 
 
 INSTALLATION
@@ -18,7 +18,7 @@ Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs
 
     Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer
     Download Viewer plugin package here
-    Embed DOC, DOCX, PDF Viewer in your Radiant CMS website
-    See source code for GroupDocs Viewer plugin for Radiant CMS
+    Embed DOC, DOCX, PDF Viewer in your eZ Publish website
+    See source code for GroupDocs Viewer plugin for eZ Publish
 
 Created by GroupDocs Marketplace Team.
