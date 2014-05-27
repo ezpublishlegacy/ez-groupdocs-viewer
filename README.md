@@ -18,7 +18,7 @@ With GroupDocs Viewer plugin for ezPublish you can easily view on [annotate on P
 * [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
 * [See source code for GroupDocs Viewer plugin for ez Publish CMS](https://github.com/groupdocs/ezpublish-groupdocs-viewer-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
 
 ###ChangeLog
 2012-11-30
